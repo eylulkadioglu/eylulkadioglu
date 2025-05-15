@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Eylul 👋
 
-<!--
-**eylulkadioglu/eylulkadioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with a passion for building scalable backend systems, designing clean APIs, and working on cloud-based solutions. I’ve worked with technologies like **Python, Flask, PostgreSQL, AWS, and JavaScript**, and enjoy solving complex problems that drive meaningful user experiences.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning: Advanced systems design, and contributing to open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on: Full-stack projects using Flask and AWS (more updates soon!).
+
+💼 I recently worked as a Software Architect at [Center for Technology & Innovation](https://ctandi.org/), where I led backend development for a digital history project.
+
+📫 How to reach me:  
+[LinkedIn](https://www.linkedin.com/in/eylulkadioglu/) • eylulkadioglu [at] gmail [dot] com
+
+---
+
+### 🛠️ Projects (Coming soon!)
+I'll be adding detailed descriptions of my favorite repositories shortly. Stay tuned! 🚧
