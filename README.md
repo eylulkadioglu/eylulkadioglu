@@ -6,7 +6,7 @@ I'm a Software Engineer with a passion for building scalable backend systems, de
 
 🔭 I’m currently working on: Full-stack projects using Flask and AWS (more updates soon!).
 
-💼 I recently worked as a Software Architect at [Center for Technology & Innovation](https://ctandi.org/), where I led backend development for a digital history project.
+💼 I recently worked as a Software Engineer at [Center for Technology & Innovation](https://ctandi.org/), where I led backend development for a digital history project.
 
 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/eylulkadioglu/) • ekadiog1@binghamton.edu
