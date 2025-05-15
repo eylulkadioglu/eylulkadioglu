@@ -9,7 +9,7 @@ I'm a Software Engineer with a passion for building scalable backend systems, de
 💼 I recently worked as a Software Architect at [Center for Technology & Innovation](https://ctandi.org/), where I led backend development for a digital history project.
 
 📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/eylulkadioglu/) • eylulkadioglu [at] gmail [dot] com
+[LinkedIn](https://www.linkedin.com/in/eylulkadioglu/) • ekadiog1@binghamton.edu
 
 ---
 
